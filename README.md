@@ -1,4 +1,4 @@
-## Olá, eu sou André Onof
+## Olá, eu sou André Onofre 👋
 
 <div align="center">
   <a href="https://github.com/andreonofre">
