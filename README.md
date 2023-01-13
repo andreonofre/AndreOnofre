@@ -1,10 +1,5 @@
 ## Olá, eu sou André Onofre 👋
 
-<div align="center">
-  <a href="https://github.com/andreonofre">
-  <img width ="400" height="180em" src="<img src="https://github-readme-stats.vercel.app/api?username=andreonofre" />"/>
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreonofre&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="André-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
